@@ -63,6 +63,7 @@
   <ItemGroup>
     <Build Include="dbo\Tables\table1.sql" />
     <Build Include="dbo\Tables\Table2.sql" />
+    <Build Include="dbo\Tables\Table3.sql" />
   </ItemGroup>
   <ItemGroup>
     <ArtifactReference Include="$(DacPacRootPath)\Extensions\Microsoft\SQLDB\Extensions\SqlServer\130\SqlSchemas\master.dacpac">
