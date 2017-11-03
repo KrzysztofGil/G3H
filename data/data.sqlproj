@@ -71,4 +71,7 @@
       <DatabaseVariableLiteralValue>master</DatabaseVariableLiteralValue>
     </ArtifactReference>
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="data.refactorlog" />
+  </ItemGroup>
 </Project>
